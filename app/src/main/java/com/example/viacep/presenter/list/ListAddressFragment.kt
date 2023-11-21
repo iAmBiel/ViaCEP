@@ -9,7 +9,7 @@ import com.example.viacep.databinding.FragmentListAddressBinding
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class ListAddressFragment : Fragment() {
+class ListAddressFragment : Fragment(){
 
     private var _binding: FragmentListAddressBinding? = null
     private val binding get() = _binding!!
