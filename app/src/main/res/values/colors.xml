@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="color_primary_inactive">#556E48EB</color>
-    <color name="color_primary">#6E48EB</color>
+    <color name="color_primary_inactive">#541EC677</color>
+    <color name="color_primary">#1EC677</color>
     <color name="background_default">#FCFCFC </color>
 
     <color name="purple_200">#FFBB86FC</color>
