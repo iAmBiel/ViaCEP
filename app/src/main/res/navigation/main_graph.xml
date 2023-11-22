@@ -12,7 +12,7 @@
         tools:layout="@layout/fragment_list_address" >
         <action
             android:id="@+id/action_listAddressFragment_to_searchAddressFragment"
-            app:destination="@id/searchAddressFragment"/>
+            app:destination="@id/searchAddressFragment" />
     </fragment>
     <fragment
         android:id="@+id/searchAddressFragment"

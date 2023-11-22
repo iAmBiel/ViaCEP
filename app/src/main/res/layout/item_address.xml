@@ -26,7 +26,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            android:text="@string/label_enter_with_cep_search_address_fragment"/>
+            android:text="@string/label_enter_with_cep_search_address_fragment" />
 
         <TextView
             android:id="@+id/text_address"
